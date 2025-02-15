@@ -1,4 +1,4 @@
-package com.example.git;
+package com.example.git.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
